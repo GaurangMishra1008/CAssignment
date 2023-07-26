@@ -8,8 +8,7 @@ int mod();
 
 int main()
 {
-    int result;
-    result=add();
+    add();
     mul();
     div();
     sub();
